@@ -58,6 +58,7 @@ hr{
   height: 300px;
   margin: 0 auto;
   margin-top:10px;
+  text-align: center;
 }
 
 .liiconmenu{
@@ -67,4 +68,29 @@ hr{
 
 .imgicons{
   margin: 0 auto;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+  margin: 30px 300px 5px 300px;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.centered-image {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+p {
+  font-size: 20px;
+  text-align: left;
+  margin: 20px 300px 100px 300px;
 }
