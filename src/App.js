@@ -173,7 +173,7 @@ function App() {
 <img
   src="https://www.jib.co.th/img_master/product/original/2022102111444255915_1.jpg"
   alt="mb img"
-  className="object-cover centered-image"
+  className="centered-image"
 />
 </div>
 <h1>Mainboard คืออะไร</h1>
