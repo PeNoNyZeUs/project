@@ -133,7 +133,7 @@ function App() {
 <img
   src="https://www.techtalkthai.com/wp-content/uploads/2018/12/techtalkthai_2018_cpu_04-600x400.jpg"
   alt="cpu img"
-  className="object-cover centered-image"
+  className=" centered-image"
 />
 </div>
 <h1>CPU คืออะไร</h1>
@@ -153,7 +153,7 @@ function App() {
 <img
   src="https://cdn.mos.cms.futurecdn.net/NSYr6nsP63PRbdJFMNL5pT-970-80.jpg.webp"
   alt="ram img"
-  className="object-cover centered-image"
+  className=" centered-image"
 />
 </div>
 <h1>RAM คืออะไร</h1>
@@ -192,7 +192,7 @@ function App() {
 <img
   src="https://img.advice.co.th/images_nas/advice_activity/202010021921882746.jpg"
   alt="hd img"
-  className="object-cover centered-image"
+  className="centered-image"
 />
 </div>
 <h1>Harddisk คืออะไร</h1>
@@ -208,7 +208,7 @@ function App() {
 <img
   src="https://cdn.thewirecutter.com/wp-content/media/2021/02/ssd-2048px-0101-3x2-1.jpg?auto=webp&quality=75&crop=1.91:1&width=1200"
   alt="ssd img"
-  className="object-cover centered-image"
+  className="centered-image"
 />
 </div>
 <h1>SSD คืออะไร</h1>
@@ -224,7 +224,7 @@ function App() {
 <img
   src="https://www.gagangtech.com/wp-content/uploads/2021/12/1.-%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD.jpg"
   alt="gc img"
-  className="object-cover centered-image"
+  className="centered-image"
 />
 </div>
 <h1>การ์ดจอ คืออะไร</h1>
@@ -240,7 +240,7 @@ function App() {
 <img
   src="https://geekflare.com/wp-content/uploads/2023/01/What-is-an-RGB-Power-Supply-Unit.png"
   alt="gc img"
-  className="object-cover centered-image"
+  className="centered-image"
 />
 </div>
 <h1>Power supply unit คืออะไร</h1>
